@@ -43,6 +43,8 @@ For testing and final:
 - Headphones o Speaker (p.e P2.0 Termina Ultra Slim Mini Speaker with Cable, 8 Ohm, 8R, 0.5W speaker, diameter 20mm, 23mm, 28mm, 30mm, 36mm, 40mm, 50mm, 57mm)
 - Key or key mores such as Portable Magnetic Amateur Radio, Shortwave Device, CW, Morse Code, QU-45255
 - 3.5mm Male and Female Jack Connectors (PJ-341).
+
+https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5O0Ewuj2xaxk9RC-J9cva2NFGwJKu21F65lKZruCLGn9qAICycI1AWaML_l6-jUCNIXb2_TbtBiwtBBs1DsfxRNCWlJrgSbpvSN99iJqLlyU5wBFSd-mswYVZQ9ZByIIBZM34_9VLhO8KV_SjTLylT9IfaC_6nu9FA8WWHojVybtiJvb0RVNhsyUd_Le0/s4624/20250127_202619.jpg
   
 Testing
 ========
